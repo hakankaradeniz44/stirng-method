@@ -1,0 +1,14 @@
+/Users/semihkartal/Desktop/denemler/stirng method/bin/Debug/net10.0/stirng method
+/Users/semihkartal/Desktop/denemler/stirng method/bin/Debug/net10.0/stirng method.deps.json
+/Users/semihkartal/Desktop/denemler/stirng method/bin/Debug/net10.0/stirng method.runtimeconfig.json
+/Users/semihkartal/Desktop/denemler/stirng method/bin/Debug/net10.0/stirng method.dll
+/Users/semihkartal/Desktop/denemler/stirng method/bin/Debug/net10.0/stirng method.pdb
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/stirng method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/stirng method.AssemblyInfoInputs.cache
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/stirng method.AssemblyInfo.cs
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/stirng method.csproj.CoreCompileInputs.cache
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/stirng method.dll
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/refint/stirng method.dll
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/stirng method.pdb
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/stirng method.genruntimeconfig.cache
+/Users/semihkartal/Desktop/denemler/stirng method/obj/Debug/net10.0/ref/stirng method.dll

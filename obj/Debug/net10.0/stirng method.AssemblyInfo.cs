@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("stirng method")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04cddab722b035c9331c4b9d9e5d403207d25bf5")]
 [assembly: System.Reflection.AssemblyProductAttribute("stirng method")]
 [assembly: System.Reflection.AssemblyTitleAttribute("stirng method")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
